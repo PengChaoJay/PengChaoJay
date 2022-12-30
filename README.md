@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=pengchaoJay+%E7%A5%9D%E4%BD%A0%E4%BB%8A%E5%A4%A9%E5%8F%88%E8%BF%9B%E6%AD%A5%E5%95%A6)](https://git.io/typing-svg)
+<div align="center"><img src="https://raw.githubusercontent.com/PengChaoJay/PengChaoJay/main/assets/github-contribution-grid-snake.svg" ></div>
 
-
-### Hi there 👋
+### :wink: About me 
 
 
 
