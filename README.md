@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=1FF7D1BB&center=true&vCenter=true&multiline=true&width=500&lines=%E9%97%AA%E9%97%AA%E5%8F%91%E4%BA%AE%EF%BC%8C%E9%97%AA%E9%97%AA%E5%8F%91%E4%BA%AE)](https://git.io/typing-svg)
 ### :wink: About me 
 
+hi,I'm PengChao Jay, from Chian, an Game lover and Game developers using UE.
 
 
 <!--
